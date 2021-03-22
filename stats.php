@@ -9,6 +9,6 @@
 	</head>
 	
 	<body>
-		<h1>This is Stats page</h1>
+		<h1>This is our NEW page</h1>
 	<body>
 </html>
