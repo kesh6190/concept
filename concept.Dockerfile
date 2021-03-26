@@ -1,2 +1,4 @@
-FROM php:7.4-apache
-COPY . /var/www
+FROM php:7.4.16-apache
+
+
+

@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  web-server:
+    build:
+      dockerfile: concept.Dockerfile
+      context: .
+    restart: always
+    volumes:
+      - "./:/var/www/html/"
+    ports:
+      - "8080:80"
